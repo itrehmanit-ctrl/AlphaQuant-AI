@@ -1,0 +1,6 @@
+{
+  "name": "AlphaQuant AI - Institutional Crypto Trading & Analysis Engine",
+  "description": "Production-grade AI-assisted crypto trading terminal with 1-Day long-term trend forecasting, high-frequency signals, automated risk management, Gemini deep reasoning, and live market paper execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
